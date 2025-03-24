@@ -1,1 +1,1 @@
-# projeto-dbd
+Projeto de Banco de Dados utilizando MySQL
