@@ -13,7 +13,7 @@ dbname=' . $db,
 $user,
 $password);
 
-var_dump($conexao);
+
 
 
 
